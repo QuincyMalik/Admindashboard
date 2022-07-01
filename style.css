@@ -15,8 +15,8 @@
 .Sidebar{
     position: absolute;
     width: 100%;
-    background-color: #ff0000;
-    height: 50vh;
+    background-color: #7fc242;
+    height: 100vh;
     padding-top: 50px;
 }
 .Sidebar ul{
